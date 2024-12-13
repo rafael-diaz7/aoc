@@ -1,0 +1,8 @@
+# Ignore files or directories containing "input" in their names
+*input*
+
+# Ignore files or directories containing "sample" in their names
+*sample*
+
+# Ignore idea files
+.idea/
